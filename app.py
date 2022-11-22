@@ -119,12 +119,12 @@ def main():
         p = 1               
     submit = st.button('Predict Rating')
     if submit: 
-        prediction = emp_perf_model1.predict([[a,b,c,d,e,f,h,i,j,k,l,m,n,o,p]])
+        prediction = emp_perf_model1.predict([[a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p]])
         prediction = int(prediction)
         if prediction == 0:
-            st.success("Worker's performance is good")
+            st.warning("Worker's performance is average")
         elif prediction == 1:
-            st.warning("Employee's performance is average")
+            st.success("Employee's performance is good")
         else:
             st.error("Employee's performance is low")
 
