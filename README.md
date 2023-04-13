@@ -1,4 +1,6 @@
 **Labour Workforce Efficency Performance Analytics using Maching Learning/IoT**
+![image](https://user-images.githubusercontent.com/107097836/231702238-d0ede599-e0d8-4787-9617-11a190641b26.png)
+
 
 Client: One of the leading Construction Department from Malaysia.
 
@@ -25,3 +27,10 @@ Database: PostgreSQL
 
 Deployment: Streamlit
 
+Business Benefits:
+
+Business Success criteria: Detection of workers who are actually working and not >=90%
+
+ML accuracy >= 90%
+
+Economic Success Criteria: The system will be considered successful if it leads to atleast 20% increase in profits for the construction industries in implementing it.
