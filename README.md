@@ -8,4 +8,20 @@ The construction industry faces challenges in monitoring and optimizing the effi
 Business Solution:
 Implementing a Labor Workforce Efficiency Performance Analytics system using Machine Learning and IoT technologies can address the challenges faced by the construction industry. This system can collect real-time data on workforce performance, analyze the data using machine learning algorithms, and provide real-time insights and alerts to managers and workers. This enables them to identify and address inefficiencies immediately, optimize the workforce schedule, identify training needs, and improve project quality. The Labor Workforce Efficiency Performance Analytics system can help the construction industry maximize productivity, reduce operational costs, and improve project quality, leading to increased profitability and customer satisfaction.
 
+![image](https://user-images.githubusercontent.com/107097836/231700965-aa67960d-ef78-44f0-b64c-0f8e6ee233ee.png)
+
+
 Technical Stacks:
+
+Programming Language: Python
+
+IDE: spyder,jupyter,GoogleColab
+
+Libraries: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn etc....
+
+ML Models: KNN, Logisitic Regression, XGBoost, DecisionTree, RandomforestClassifier, K-Means Clustering etc....
+
+Database: PostgreSQL
+
+Deployment: Streamlit
+
