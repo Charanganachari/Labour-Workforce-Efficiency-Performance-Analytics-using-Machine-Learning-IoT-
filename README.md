@@ -18,14 +18,22 @@
 ![image](https://user-images.githubusercontent.com/107097836/231700965-aa67960d-ef78-44f0-b64c-0f8e6ee233ee.png)
 
  Technology Stack:
+
  Programming Language: Python
+
  IDE: spyder, jupyter, GoogleColab
+ 
  Libraries: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn etc....
+ 
  Database: PostgreSQL
+ 
  Deployment Tools: Streamlit
  
  Business Benefits:
+ 
  Business Success criteria: Detection of workers who are actually not working by 90%
+ 
  ML success criteria: 90%
+ 
  Economic Success Criteria: The system will be considered successful if it leads to atleast 20% increase in 
  profits for the construction industries in implementing it.
